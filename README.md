@@ -1,13 +1,21 @@
-- 👋 Olá, Eu sou @joseedivandro mais conhecido como Júnior
-- 👀 Tenho interesse na área de desenvolvimento Mobile 
-- 🌱 Atualmente estudo  JavaScript e .NET ...
-- 📫 meu e-mail para contato é: jose.edivandro.ja@Outlook.com ...
-- :link: Acesse meu [linkedin](https://www.linkedin.com/in/jose-edivandro-jr/) e venha me conhecer um pouco mais
-
-<!---
-joseedivandro/joseedivandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+  <tr>
+    <td valign="top" width="70%"">
+      <!-- Seu texto de apresentação -->
+      <ul>
+        <li>👋 Olá, Eu sou @joseedivandro mais conhecido como Júnior</li>
+        <li>👀 Tenho interesse na área de desenvolvimento Mobile</li>
+        <li>🌱 Atualmente estudo JavaScript e .NET ...</li>
+        <li>📫 meu e-mail para contato é: jose.edivandro.ja@Outlook.com ...</li>
+        <li>:link: Acesse meu <a href="https://www.linkedin.com/in/jose-edivandro-jr/">linkedin</a> e venha me conhecer um pouco mais</li>
+      </ul>
+    </td>
+    <td valign="top" width="30%">
+      <!-- Estatísticas do GitHub -->
+      <img alt="Jose`s Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseedivandro&show_icons=true&locale=en&layout=compact&theme=dark"/>
+    </td>
+  </tr>
+</table>
 
 
 ### Languages and Tools:
@@ -25,5 +33,8 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/0dfafa39eb53450c5cd34ffddc08aa6e1e941e00/icons/cypress.svg" />
 <img align="left" alt="Cucumber" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/0dfafa39eb53450c5cd34ffddc08aa6e1e941e00/icons/cucumber.svg" />
 <img align="left" alt="Cucumber" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/0dfafa39eb53450c5cd34ffddc08aa6e1e941e00/icons/docker.svg" />
+
+
+
 
 
