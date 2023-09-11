@@ -1,7 +1,8 @@
 - 👋 Olá, Eu sou @joseedivandro mais conhecido como Júnior
 - 👀 Tenho interesse na área de desenvolvimento Mobile 
-- 🌱 Atualmente estudo  JavaScript e PHP ...
+- 🌱 Atualmente estudo  JavaScript e .NET ...
 - 📫 meu e-mail para contato é: jose.edivandro.ja@Outlook.com ...
+- :link: Acesse meu [linkedin](https://www.linkedin.com/in/jose-edivandro-jr/) e venha me conhecer um pouco mais
 
 <!---
 joseedivandro/joseedivandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
